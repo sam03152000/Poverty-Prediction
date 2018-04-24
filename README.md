@@ -8,4 +8,13 @@ The dataset provided by World Bank conducted in-depth household surveys with a s
 The aim of this project is to build a model that can accurately predict poverty for a specific country and utilized techniques such as data preprocessing, logistic regression, gradient descent and regularization.  
  
 ## Using the Software
-The fitting code is written in Python and is demonstrated in the file demo_python.ipynb.
+The fitting code is written in Python and is demonstrated in the file STAT689_Poverty Prediction.ipynb.
+
+## Performance matrics
+We use log loss function to evaluate our results.
+https://en.wikipedia.org/wiki/Loss_functions_for_classification
+
+## Reference
+DrivenData https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/
+Stanford cs229 http://cs229.stanford.edu/notes/cs229-notes1.pdf
+Log loss function https://en.wikipedia.org/wiki/Loss_functions_for_classification
