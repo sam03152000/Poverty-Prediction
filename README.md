@@ -16,5 +16,7 @@ https://en.wikipedia.org/wiki/Loss_functions_for_classification
 
 ## Reference
 DrivenData https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/
+
 Stanford cs229 http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
 Log loss function https://en.wikipedia.org/wiki/Loss_functions_for_classification
