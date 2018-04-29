@@ -8,7 +8,7 @@ The dataset provided by World Bank conducted in-depth household surveys with a s
 The aim of this project is to build a model that can accurately predict poverty for a specific country and utilized techniques such as data preprocessing, logistic regression, gradient descent and regularization.  
 
 ## Project Goal
-1. build a logistic regression model with gradient descent
+1. Build a logistic regression model with gradient descent
 
 2. Compare our model to the scikit-learn package
 
