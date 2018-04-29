@@ -12,11 +12,9 @@ The aim of this project is to build a model that can accurately predict poverty 
 
 2. Compare our model to the scikit-learn package
 
-3. Introduce regularization term to the model
+3. Introduce regularization term (L1 and L2) and compare the results
 
-4. Compare results with different train-test split
-
-5. Compare results with different poverty prediction probability threshold
+4. Compare results with different poverty prediction probability threshold
 
 ## Using the Software
 The fitting code is written in Python and is demonstrated in the file STAT689_Poverty Prediction.ipynb.
